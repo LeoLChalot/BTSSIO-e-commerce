@@ -3,9 +3,7 @@ $servername = "localhost";
 $dbname = "e-commerce";
 $username = "root";
 $password = "";
-if(isset($_SESSION['admin'])){
-    $_SESSION['connexion'] = true;
-}
+
 
 try {
     $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
