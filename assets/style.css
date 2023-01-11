@@ -1,0 +1,44 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Karma", sans-serif;
+}
+
+a{
+	text-decoration: none;
+}
+
+.w3-bar-block .w3-bar-item {
+	padding: 20px;
+}
+
+p .stock-vert{
+	font-weight: bold;
+	color: #007800;
+}
+p .stock-rouge{
+	font-weight: bold;
+	color: #b50000;
+}
+
+.btn-add{
+	width: 30px;
+	height: 23px;
+	font-weight: bold;
+	margin-left: 5px;
+	border: none;
+	border-radius: 3px;
+	cursor: pointer;
+	background: #62bd62;
+	color: #fff;
+	transition: all .3s;
+}
+
+.btn-add:hover{
+	background: rgba(172, 255, 172, 0.5);
+}
+
