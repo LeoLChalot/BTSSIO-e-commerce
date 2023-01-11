@@ -5,6 +5,7 @@
 
     <!-- Photo Grid-->
     <div class="w3-row-padding w3-padding-16 w3-center">
+        <h1>TEST de Léo</h1>
 
         <!-- Début du parcours de ma table Catégorie (BDD e-commerce) -->
         <?php
