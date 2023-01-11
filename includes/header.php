@@ -13,7 +13,7 @@
         <nav class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:40%;min-width:300px" id="mySidebar">
         <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button">Close Menu</a>
         <a href="index.php" onclick="w3_close()" class="w3-bar-item w3-button">Home</a>
-        <a href="about.php" onclick="w3_close()" class="w3-bar-item w3-button">About</a>
+        <a href="item.php" onclick="w3_close()" class="w3-bar-item w3-button">All Items</a>
         <a href="login.php" onclick="w3_close()" class="w3-bar-item w3-button">Login</a>
     </nav>
 
